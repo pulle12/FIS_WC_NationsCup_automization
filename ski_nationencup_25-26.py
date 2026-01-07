@@ -24,7 +24,7 @@ NATION_MAP = {
     "ITA": "Italien", "SWE": "Schweden", "CRO": "Kroatien",
     "ALB": "Albanien", "CAN": "Kanada", "SLO": "Slowenien",
     "NZL": "Neuseeland", "BRA": "Brasilien", "BEL": "Belgien",
-    "GBR": "Großbritannien", "CZE": "Tschechien", "FIN": "Finnland"
+    "GBR": "Großbritannien", "CZE": "Tschechien", "FIN": "Finnland", "POL": "Polen", "LAT": "Lettland"
 }
 
 NATION_COLORS = {
@@ -45,7 +45,9 @@ NATION_COLORS = {
     "Belgien": "#FFDD00",
     "Großbritannien": "#00247D",
     "Tschechien": "#D7141A",
-    "Finnland": "#003580"
+    "Finnland": "#003580",
+    "Polen": "#DC143C",
+    "Lettland": "#9E3039"
 }
 
 # Falls eine ID fehlt, zeigt der Code automatisch die Nummer an
@@ -79,11 +81,15 @@ RACE_ID_TO_NAME = {
     "127362": "Alta Badia-RTL (M)",
     "127363": "Alta Badia-SL (W)",
     "127364": "Livigno-SG (M)",
-    "127365": "Semmering-RTL (W)"
+    "127365": "Semmering-RTL (W)",
+    "127366": "Semmering-SL (W)",
+    "127367": "Kranjska Gora-RTL (W)",
+    "127368": "Kranjska Gora-SL (W)",
+    "127369": "Madonna di Campiglio-SL (M)"
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)
-wichtige = ["Österreich", "Schweiz", "Norwegen", "Frankreich", "USA", "Deutschland", "Italien", "Schweden", "Kroatien", "Kanada", "Albanien", "Tschechien", "Finnland", "Neuseeland", "Brasilien", "Slowenien", "Belgien", "Großbritannien"]
+wichtige = ["Österreich", "Schweiz", "Norwegen", "Frankreich", "USA", "Deutschland", "Italien", "Schweden", "Kroatien", "Kanada", "Albanien", "Tschechien", "Finnland", "Neuseeland", "Brasilien", "Slowenien", "Belgien", "Großbritannien", "Lettland"]
 
 def update_wallpaper():
     # print("Lese Excel Daten...", end="")

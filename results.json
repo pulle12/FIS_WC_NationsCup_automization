@@ -454,6 +454,106 @@
     },
     {
         "race_id": 127363,
+        "points": {
+            "NOR": 188,
+            "FRA": 147,
+            "SUI": 105,
+            "BRA": 45,
+            "FIN": 35,
+            "ITA": 44,
+            "AUT": 77,
+            "GBR": 29,
+            "GER": 21,
+            "CRO": 11,
+            "BUL": 8,
+            "BEL": 6,
+            "USA": 2
+        }
+    },
+    {
+        "race_id": 127364,
+        "points": {
+            "AUT": 159,
+            "SUI": 282,
+            "GER": 45,
+            "ITA": 107,
+            "FRA": 31,
+            "USA": 45,
+            "CAN": 41,
+            "CZE": 10,
+            "FIN": 6,
+            "NOR": 3
+        }
+    },
+    {
+        "race_id": 127365,
+        "points": {
+            "AUT": 157,
+            "SUI": 105,
+            "SWE": 60,
+            "CAN": 79,
+            "POL": 45,
+            "USA": 50,
+            "ITA": 72,
+            "NOR": 57,
+            "GER": 45,
+            "CRO": 20,
+            "FRA": 14,
+            "SLO": 9
+        }
+    },
+    {
+        "race_id": 127366,
+        "points": {
+            "USA": 100,
+            "SUI": 175,
+            "ALB": 60,
+            "AUT": 139,
+            "SWE": 58,
+            "CRO": 32,
+            "LAT": 26,
+            "CAN": 22,
+            "FRA": 18,
+            "ITA": 16,
+            "GER": 14,
+            "AND": 13,
+            "JPN": 9
+        }
+    },
+    {
+        "race_id": 127367,
+        "points": {
+            "SUI": 128,
+            "AUT": 97,
+            "USA": 161,
+            "SWE": 63,
+            "ALB": 40,
+            "POL": 36,
+            "CAN": 66,
+            "ITA": 54,
+            "NOR": 36,
+            "FRA": 14,
+            "GER": 13,
+            "CRO": 9,
+            "SLO": 2
+        }
+    },
+    {
+        "race_id": 127368,
+        "points": {
+            "SUI": 190,
+            "USA": 163,
+            "AUT": 72,
+            "ITA": 88,
+            "LAT": 36,
+            "GER": 56,
+            "SWE": 90,
+            "FRA": 20,
+            "ISR": 3
+        }
+    },
+    {
+        "race_id": 127369,
         "points": {}
     }
 ]
