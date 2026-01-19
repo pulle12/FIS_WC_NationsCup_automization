@@ -85,7 +85,16 @@ RACE_ID_TO_NAME = {
     "127366": "Semmering-SL (W)",
     "127367": "Kranjska Gora-RTL (W)",
     "127368": "Kranjska Gora-SL (W)",
-    "127369": "Madonna di Campiglio-SL (M)"
+    "127369": "Madonna di Campiglio-SL (M)",
+    "127372": "Altenmarkt-Zauchensee-DH (W)",
+    "127374": "Adelboden-RTL (M)",
+    "127375": "Adelboden-SL (M)",
+    "127376": "Flachau-SL (W)",
+    "127380": "Wengen-SG (M)",
+    "127385": "Tarvis-DH (W)",
+    "127381": "Wengen-DH (M)",
+    "127386": "Tarvis-SG (W)",
+    "127382": "Wengen-SL (M)"
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)
@@ -129,6 +138,12 @@ def update_wallpaper():
             race_labels.append(nice_name)
 
         df = pd.DataFrame(data_for_df)
+        
+        # Überprüfung: Ist der DataFrame leer?
+        if df.empty:
+            print("⚠️  Keine Daten zum Visualisieren. Überspringe...")
+            return
+        
         df = df.fillna(0)
         df = df.cumsum()
         

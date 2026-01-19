@@ -554,6 +554,156 @@
     },
     {
         "race_id": 127369,
-        "points": {}
+        "points": {
+            "FRA": 215,
+            "FIN": 80,
+            "BRA": 50,
+            "NOR": 133,
+            "BEL": 40,
+            "SUI": 50,
+            "AUT": 36,
+            "ESP": 20,
+            "GER": 18,
+            "CRO": 13,
+            "ITA": 22
+        }
+    },
+    {
+        "race_id": 127372,
+        "points": {
+            "USA": 227,
+            "NOR": 84,
+            "ITA": 140,
+            "SUI": 74,
+            "GER": 62,
+            "FRA": 58,
+            "CZE": 26,
+            "SLO": 15,
+            "AUT": 31,
+            "NZL": 5
+        }
+    },
+    {
+        "race_id": 127374,
+        "points": {
+            "SUI": 188,
+            "BRA": 80,
+            "FRA": 118,
+            "NOR": 119,
+            "USA": 36,
+            "AUT": 60,
+            "GER": 38,
+            "SLO": 16,
+            "ITA": 18,
+            "BEL": 12,
+            "AND": 11,
+            "SWE": 8,
+            "ESP": 6
+        }
+    },
+    {
+        "race_id": 127375,
+        "points": {
+            "FRA": 190,
+            "NOR": 151,
+            "BRA": 50,
+            "AUT": 91,
+            "FIN": 40,
+            "SUI": 60,
+            "BEL": 26,
+            "BUL": 24,
+            "GBR": 41,
+            "ITA": 21,
+            "CRO": 10,
+            "SWE": 8,
+            "JPN": 6
+        }
+    },
+    {
+        "race_id": 127376,
+        "points": {
+            "USA": 200,
+            "AUT": 123,
+            "SUI": 143,
+            "SWE": 76,
+            "ALB": 32,
+            "ITA": 39,
+            "FRA": 46,
+            "SLO": 24,
+            "CAN": 19,
+            "CRO": 7
+        }
+    },
+    {
+        "race_id": 127380,
+        "points": {
+            "ITA": 161,
+            "AUT": 205,
+            "SUI": 171,
+            "USA": 76,
+            "NOR": 29,
+            "FRA": 34,
+            "CZE": 18,
+            "CAN": 20,
+            "GER": 4
+        }
+    },
+    {
+        "race_id": 127385,
+        "points": {
+            "ITA": 197,
+            "GER": 125,
+            "USA": 142,
+            "AUT": 117,
+            "SLO": 32,
+            "NOR": 47,
+            "SUI": 36,
+            "CZE": 15,
+            "FRA": 14
+        }
+    },
+    {
+        "race_id": 127381,
+        "points": {
+            "SUI": 258,
+            "AUT": 130,
+            "ITA": 159,
+            "CAN": 41,
+            "FRA": 57,
+            "USA": 27,
+            "CHI": 15,
+            "SLO": 20,
+            "GER": 9,
+            "FIN": 2
+        }
+    },
+    {
+        "race_id": 127386,
+        "points": {
+            "GER": 132,
+            "USA": 158,
+            "CZE": 60,
+            "FRA": 75,
+            "ITA": 108,
+            "NOR": 37,
+            "AUT": 96,
+            "SUI": 34,
+            "CAN": 18
+        }
+    },
+    {
+        "race_id": 127382,
+        "points": {
+            "NOR": 253,
+            "BRA": 80,
+            "SUI": 103,
+            "CRO": 48,
+            "AUT": 107,
+            "FRA": 47,
+            "GER": 31,
+            "ITA": 25,
+            "BEL": 16,
+            "SWE": 13
+        }
     }
 ]
