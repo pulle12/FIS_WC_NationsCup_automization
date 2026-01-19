@@ -98,7 +98,7 @@ RACE_ID_TO_NAME = {
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)
-wichtige = ["Österreich", "Schweiz", "Norwegen", "Frankreich", "USA", "Deutschland", "Italien", "Schweden", "Kroatien", "Kanada", "Albanien", "Tschechien", "Finnland", "Neuseeland", "Brasilien", "Slowenien", "Belgien", "Großbritannien", "Lettland"]
+wichtige = ["Österreich", "Schweiz", "Norwegen", "Frankreich", "USA", "Deutschland", "Italien", "Schweden", "Kroatien", "Kanada", "Albanien", "Tschechien", "Finnland", "Neuseeland", "Brasilien", "Slowenien", "Belgien", "Großbritannien", "Lettland", "Polen"]
 
 def update_wallpaper():
     # print("Lese Excel Daten...", end="")
