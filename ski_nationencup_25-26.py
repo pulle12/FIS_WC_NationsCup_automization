@@ -94,7 +94,13 @@ RACE_ID_TO_NAME = {
     "127385": "Tarvis-DH (W)",
     "127381": "Wengen-DH (M)",
     "127386": "Tarvis-SG (W)",
-    "127382": "Wengen-SL (M)"
+    "127382": "Wengen-SL (M)",
+    "127387": "Kronplatz-RTL (W)",
+    "127391": "Kitzbühel-SG (M)",
+    "127392": "Kitzbühel-DH (M)",
+    "127394": "Spindermühle-RTL (W)",
+    "127395": "Spindermühle-SL (W)",
+    "127393": "Kitzbühel-SL (M)"
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)
