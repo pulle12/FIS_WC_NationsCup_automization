@@ -100,7 +100,12 @@ RACE_ID_TO_NAME = {
     "127392": "Kitzbühel-DH (M)",
     "127394": "Spindermühle-RTL (W)",
     "127395": "Spindermühle-SL (W)",
-    "127393": "Kitzbühel-SL (M)"
+    "127393": "Kitzbühel-SL (M)",
+    "127396": "Schladming-RTL (M)",
+    "127397": "Schladming-SL (W)",
+    "127400": "Crans Montana-DH (W)",
+    "127402": "Crans Montana-SG (W)",
+    "127404": "Crans Montana-DH (M)"
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)

@@ -802,5 +802,50 @@
             "CRO": 5,
             "ESP": 4
         }
+    },
+    {
+        "race_id": 127396,
+        "points": {
+            "SUI": 150,
+            "BRA": 80,
+            "FRA": 79,
+            "NOR": 106,
+            "BEL": 40,
+            "AUT": 94,
+            "ITA": 33,
+            "GER": 60,
+            "SLO": 20,
+            "CRO": 18,
+            "SWE": 14,
+            "CAN": 11,
+            "SVK": 7
+        }
+    },
+    {
+        "race_id": 127397,
+        "points": {
+            "NOR": 262,
+            "FRA": 75,
+            "BRA": 50,
+            "AUT": 93,
+            "ITA": 60,
+            "SUI": 54,
+            "USA": 32,
+            "CRO": 18,
+            "SWE": 16,
+            "BUL": 13
+        }
+    },
+    {
+        "race_id": 127400,
+        "points": {}
+    },
+    {
+        "race_id": 127402,
+        "points": {}
+    },
+    {
+        "race_id": 127404,
+        "points": {}
     }
 ]
