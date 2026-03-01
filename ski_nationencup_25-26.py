@@ -138,7 +138,7 @@ def update_wallpaper():
             # json.load verwandelt den Text aus der Datei zurück in ein Python-Dictionary
             raw_data = json.load(f)
 
-        print("✅ Daten erfolgreich geladen!\n")
+        print("Daten erfolgreich geladen!\n")
 
         data_for_df = []
         race_labels = []
@@ -155,7 +155,7 @@ def update_wallpaper():
         
         # Überprüfung: Ist der DataFrame leer?
         if df.empty:
-            print("⚠️  Keine Daten zum Visualisieren. Überspringe...")
+            print("Keine Daten zum Visualisieren. Überspringe...")
             return
         
         df = df.fillna(0)
