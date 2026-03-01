@@ -2,7 +2,7 @@
 
 Dieses Projekt aktualisiert automatisch deinen Windows-Hintergrund mit dem aktuellen Stand des **FIS Ski Alpin Nationen-Cups**.
 
-[https://github.com/user-attachments/assets/33169732-ac67-403a-93e7-c59432491966]
+![Preview](https://github.com/user-attachments/assets/33169732-ac67-403a-93e7-c59432491966)
 
 Es besteht aus:
 - einem Scraper für die FIS-Ergebnisse,
