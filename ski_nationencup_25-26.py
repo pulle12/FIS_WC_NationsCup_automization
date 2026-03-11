@@ -108,7 +108,12 @@ RACE_ID_TO_NAME = {
     "127412": "Soldeu-DH (W)",
     "127373": "Soldeu-SG1 (W)",
     "127407": "Garmisch-Partenkirchen-DH (M)",
-    "127413": "Soldeu-SG2 (W)"
+    "127413": "Soldeu-SG2 (W)",
+    "127400": "Val di Fassa-DH1 (W)",
+    "127417": "Val di Fassa-DH2 (W)",
+    "127419": "Kranjska Gora-RTL (M)",
+    "127418": "Val di Fassa-SG (W)",
+    "127420": "Kranjska Gora-SL (M)"
 }
 
 # Liste der Nationen, die beschriftet werden sollen (Namen müssen zum Mapping oben passen)
